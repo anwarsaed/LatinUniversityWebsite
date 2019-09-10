@@ -23,3 +23,11 @@ body {
     padding: 14px 16px;
     text-align: center;
   }
+
+  .centerTeam {
+      display: block;
+      width: 552px; 
+      height: 310px;
+      margin-left: auto;
+      margin-right: auto;
+  }
